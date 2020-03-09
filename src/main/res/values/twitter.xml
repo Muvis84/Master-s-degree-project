@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="policeApp2"></string>
+    <string name="Twitter"></string>
+    <string name="twitter">
+    <a href="https://twitter.com/login?lang=en-gb"></a>
+    </string>
+</resources>

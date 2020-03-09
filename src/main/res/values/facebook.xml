@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="policeApp1"></string>
+    <string name="Facebook"></string>
+    <string name="facebook">
+    <a href="https://mtouch.facebook.com/login/"></a>
+    </string>
+</resources>

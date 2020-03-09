@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="policeApp3"></string>
+    <string name="Instagram"></string>
+    <string name="instagram">
+    <a href="https://www.instagram.com/accounts/login/?hl=en"></a>
+    </string>
+</resources>
